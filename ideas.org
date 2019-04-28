@@ -1,6 +1,7 @@
 * TODOs
 ** TODO Is 30 years enough for extinction, desertification?
 ** TODO What does AI look like in 2050s?
+** TODO Describe characters fully (not immediately in book!)
 * Setting
 ** 2050s
    After events of the Great Extinction
@@ -11,6 +12,17 @@
 *** Birmingham
 ** 2020s
 * Characters
+  General guidelines: https://www.thecreativepenn.com/2012/10/01/characters/
+  Nationality, social status and job/occupation.
+  Beliefs, values, preoccupations, superstitions, preferences, fears or phobias (Is he/she afraid of the dark? Or maybe spiders?) and why they fear that specific thing.
+  Friends/allies, enemies, any family he/she has, any lover or crush, etc.
+  Particular talents (maybe he/she is good at juggling), any movements/protests he/she is involved in (describe the movement/protest and its purpose), and past/childhood (maybe he/she used to be a warrior or a bank-robber), etc.
+  Hobbies/things he/she likes to do for fun.
+  Describe his/her current home (in full detail) and past/childhood home.
+
+  Describe the character's personality in detail. Is he/she loud and flamboyant, or more the quiet introvert? Does he/she stand for his/her beliefs? Is he/she shy, or in-your-face? You want your readers to know exactly what kind of person your character is, if required.
+  Of personality traits, which are the best? They are all great for working with as a writer, but you must choose a reasonable selection that best fits your character––don't try to overwhelm the character with an unlikely combination of many traits.
+  Don't give the character merely neutral or good traits. Also spice it up with the vices and weaknesses. Your character is best if presented as imperfect (in actions, appearance or personality). Your character can make mistakes, have bad habits, and possess little interesting quirks. This is what makes the character interesting. For example: Is he so nice that he gets taken advantage of? Or is she so pretty that it goes to her head? Is she such a tomboy that the guys don't mind including her in guy's night out?
 ** 2050s
 *** Michi Brunwald
     Forest ranger?
