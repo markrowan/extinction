@@ -2,15 +2,19 @@
 ** TODO Is 30 years enough for extinction, desertification?
 ** TODO What does AI look like in 2050s?
 ** TODO Describe characters fully (not immediately in book!)
-* Setting
+* Settings
 ** 2050s
+*** General
    After events of the Great Extinction
    AI has advanced to be prevalent
    "The central European desert"
+*** Technology
+    Self-driving cars
+    Autonomous drones
+** 2010s
+*** Birmingham
 *** Switzerland
     Graubünden, WEF
-*** Birmingham
-** 2020s
 * Characters
   General guidelines: https://www.thecreativepenn.com/2012/10/01/characters/
   Nationality, social status and job/occupation.
@@ -29,7 +33,7 @@
     From Valais
 *** Ellie Carpenter
     Lab researcher in Birmingham
-** 2020s
+** 2010s
 * Style
 ** General principles
    Try to teach about realistic use of AI and technology in the future
@@ -55,4 +59,50 @@
     Like Game of Thrones, different separated characters take the main role in 
     each chapter
 * Plot
-** 
+** Storyline 1: 2010s
+   Melting permafrost exposes spores of fungus which grew in ancient soil 4 
+   mio years ago. It attacks grasses, preventing photosynthesis and killing 
+   it. No big problem since 4 mio years ago it lived in equilibrium with 
+   bacteria that consumed the fungus, but now the fungus can spread 
+   unchecked. It is naturally resistant to anti-fungal medications and is soon
+   located in crops around the region.
+    
+   The ecological and societal impacts if it spreads unchecked will be huge:
+   food shortages, mass extinctions, mass migrations.
+    
+   Ellie is a biologist in a lab in Birmingham, UK. She realises that in the 
+   ancient world, this fungus would not have spread unchecked. There must be 
+   an organism which kept it in check -- she starts a search for such an 
+   organism (fungivore) but needs to find where the fungus originated from.
+
+   A global pharmaceutical company is working along the same lines but wants 
+   to patent the cure to have a monopoly on the treatment. They pop up in the 
+   permafrost areas and don't take kindly to Ellie's investigation. Ellie 
+   believes that their approach to synthesise the mechanism from the bacteria 
+   will not work and she has the correct approach, but they start to send
+   sinister people to try to disrupt her work and scare her off. Time is 
+   running out.
+
+   The world starts to notice crops dying. Ellie realises that the world 
+   needs to hear about her work so she plans to address world leaders at
+   the WEF in Switzerland. She meets Michi Brunwald, a botanist in Zürich. He 
+   has some ideas based on xyz that he noticed in his work.
+
+   Part of this storyline involves real scientific research to locate the 
+   source of the outbreak in the permafrost, and to search the habitat for 
+   the consuming bacteria which can be re-animated.
+** Storyline 2: 2050s
+   The earth is massively desertified. Plants can only be grown in huge 
+   bio-domes, society is upheaved. Dust storms ravage the cities, almost no 
+   one lives outside of the cities now. Some remote islands are kept as 
+   military-guarded clean-areas as "bio reserves". AI plays a major role in 
+   trying to keep civilisation functioning.
+** Outline
+*** < >, 2057
+    Sandstorm in < >
+*** Siberia, 2005
+    Melting permafrost exposes fungus which grew in pre-ice-age soil
+    No living matter seen in its radius
+    Spores travel on the wind
+*** Birmingham, 2013
+    Ellie working in the lab as ecologist
