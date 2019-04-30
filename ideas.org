@@ -35,8 +35,12 @@
    Try to teach about realistic use of AI and technology in the future
    High Tech as well as humanity -- not just gadgetry to save the day
 ** Potential writing styles
-*** 1. Set in 2050s with flashbacks to events in 2020s
-    Possible to set a series of books in the 2050s
+*** 1. Set in 2050s with flashbacks to events in 2010s
+    Possible to set a series of books in the 2050s  
+*** 1a. Parallel intertwined storylines in 2050s and 2010s
+    Two characters in the 2050s adapting to change in the new world
+    "Unrelated" characters in the 2010s
+      - but their paths intertwine throughout
 *** 2. Multiple linear books
     Like Hangman's Daughter, follow family members through generations
     2020s, 2050s (with multiple adventures), ...?
@@ -47,7 +51,7 @@
 *** 2. 1st person
     Can relate to the narrator very well
     But the narrator may change over the series of books
-*** 3. 3rd person but focussed by chapter
+*** 3. 3rd person but focussed by chapter / timeline
     Like Game of Thrones, different separated characters take the main role in 
     each chapter
 * Plot
